@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Header","Representation of the header of an entry in an archive"]]});
